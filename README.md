@@ -276,8 +276,9 @@ Optimal Inventory = Forecast Demand + Safety Stock
 ## Visualizations
 
 ### 1. Sales Time Series Analysis
-![Sales Time Series](<img width="4169" height="2971" alt="image" src="https://github.com/user-attachments/assets/98499fc4-0a4b-4032-87f5-293e517248ea" />
+!![Sales Time Series](<img width="4169" height="2971" alt="image" src="https://github.com/user-attachments/assets/e6e0a7fe-9500-4247-bc4b-9800ba48d89b" />
 )
+
 - Historical sales with holiday highlights
 - Rolling statistics showing trend and volatility
 
