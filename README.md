@@ -276,25 +276,21 @@ Optimal Inventory = Forecast Demand + Safety Stock
 ## Visualizations
 
 ### 1. Sales Time Series Analysis
-!![Sales Time Series](<img width="4169" height="2971" alt="image" src="https://github.com/user-attachments/assets/e6e0a7fe-9500-4247-bc4b-9800ba48d89b" />
-)
+![Sales Time Series](https://github.com/user-attachments/assets/e6e0a7fe-9500-4247-bc4b-9800ba48d89b)
 
 - Historical sales with holiday highlights
 - Rolling statistics showing trend and volatility
 
 ### 2. Demand Forecast
-![Demand Forecast](<img width="4770" height="2074" alt="image" src="https://github.com/user-attachments/assets/fc98bb61-4f9e-4b84-a522-9b21ba131d43" />
-)
+![Demand Forecast](https://github.com/user-attachments/assets/fc98bb61-4f9e-4b84-a522-9b21ba131d43)
 - 12-week ahead forecast
 - 95% confidence intervals
 - Comparison with test set actuals
 
 ### 3. Cost Comparison
-![Cost Comparison](<img width="4770" height="1774" alt="image" src="https://github.com/user-attachments/assets/77be0735-54eb-4fe9-952d-a4c1025c1333" />
-)
+![Cost Comparison](https://github.com/user-attachments/assets/77be0735-54eb-4fe9-952d-a4c1025c1333)
 - Baseline vs optimized inventory levels
 - Holding cost savings visualization
-
 ---
 
 ## Model Lifecycle
