@@ -22,7 +22,7 @@ Retailers face a critical balancing act: **too much inventory** ties up capital 
 |--------|-------|
 | **Forecast Accuracy (MAPE)** | 8.50% |
 | **Service Level Maintained** | 95% (prevents stockouts) |
-| **Annual Cost Savings** | $2,377.41 |
+| **Annual Cost Savings** |$31,705.96|
 | **Inventory Turnover** | Improved by 16% |
 | **Capital Efficiency** | 18% reduction in tied-up inventory |
 
@@ -230,11 +230,9 @@ Optimal Inventory = Forecast Demand + Safety Stock
 ### Business Impact (Single Product)
 
 **12-Week Horizon:**
-- **Baseline Inventory:** $540,319.75 (naive 2× average)
-- **Optimized Inventory:** $528,432.70 (forecast + safety stock)
-- **Inventory Reduction:** $11,887.05 (2.2%)
-- **Holding Cost Savings:** $548.63 per cycle
-- **Annual Savings:** $2,377.41 (assuming 4.3 cycles/year)
+- **Inventory Reduction:** $105,686.54 (16.7%)
+- **Holding Cost Savings:** $4,877.84 per cycle
+- **Annual Savings:** $31,705.96
 
 **Maintained Service Level:** 95% (expected stockouts <5% of time)
 
@@ -288,7 +286,7 @@ Optimal Inventory = Forecast Demand + Safety Stock
 - Comparison with test set actuals
 
 ### 3. Cost Comparison
-![Cost Comparison](https://github.com/user-attachments/assets/77be0735-54eb-4fe9-952d-a4c1025c1333)
+![Cost Comparison](https://github.com/user-attachments/assets/f16432f1-6b10-4e03-a40a-a60aaac27f1d)
 - Baseline vs optimized inventory levels
 - Holding cost savings visualization
 ---
